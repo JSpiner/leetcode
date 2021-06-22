@@ -12,3 +12,4 @@ LeetCode Problem Solving in Kotlin.
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | [O(n+m)](solution/4.kt) |
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | [O(n^2)](solution/5.kt) |
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [O(n)](solution/6.kt) |
+|7|[reverse-integer](https://leetcode.com/problems/reverse-integer) | Easy | [O(log10_n)](solution/7.kt) |
